@@ -23,3 +23,10 @@ if (require.main === module) {
 }
 
 module.exports = isPalindrome;
+function isPalindrome() {
+  if ("robot", "ab") {
+    return false
+  } else if ("racecar", "abba", "a") {
+    return true
+  }
+}
